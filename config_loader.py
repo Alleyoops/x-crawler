@@ -39,7 +39,8 @@ class ConfigLoader:
             },
             "llm": {
                 "api_key": None,
-                "model": "openai/gpt-4o"
+                "model": "deepseek-chat",
+                "base_url": "https://api.deepseek.com/v1"
             },
             "proxy": {
                 "http": None,
@@ -65,10 +66,20 @@ class ConfigLoader:
             config['authentication']['headers']['X-Csrf-Token'] = os.getenv('X_CSRF_TOKEN')
 
         # LLM配置
-        if os.getenv('OPENROUTER_API_KEY'):
-            config['llm']['api_key'] = os.getenv('OPENROUTER_API_KEY')
-        if os.getenv('OPENAI_MODEL'):
-            config['llm']['model'] = os.getenv('OPENAI_MODEL')
+        for key_name in ['LLM_API_KEY', 'DEEPSEEK_API_KEY', 'OPENROUTER_API_KEY', 'OPENAI_API_KEY']:
+            if os.getenv(key_name):
+                config['llm']['api_key'] = os.getenv(key_name)
+                break
+
+        for model_key in ['LLM_MODEL', 'DEEPSEEK_MODEL', 'OPENAI_MODEL']:
+            if os.getenv(model_key):
+                config['llm']['model'] = os.getenv(model_key)
+                break
+
+        for base_url_key in ['LLM_BASE_URL', 'OPENAI_BASE_URL', 'DEEPSEEK_BASE_URL']:
+            if os.getenv(base_url_key):
+                config['llm']['base_url'] = os.getenv(base_url_key)
+                break
 
         # 代理配置
         if os.getenv('HTTP_PROXY'):

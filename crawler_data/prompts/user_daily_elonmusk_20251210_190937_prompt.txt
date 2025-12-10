@@ -1,0 +1,2623 @@
+# LLM Prompt 保存记录
+生成时间: 2025-12-10 19:09:37
+总结类型: user_daily
+用户: @elonmusk
+推文数量: 55
+数据哈希: 761d6949
+
+================================================================================
+完整Prompt内容:
+================================================================================
+
+分析马斯克今天的推文，简要总结（15-25行）：
+
+推文数据：
+```json
+[
+  {
+    "id": "1998191928090021901",
+    "text": "She is openly advocating for the destruction of democracy",
+    "created_at": "Tue Dec 09 00:44:14 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998123030917341316",
+      "text": "SCOTUS: Justice Ketanji Brown Jackson told the Court that presidents should not be able to fire the PhDs & experts who run the government. She even argued presidents should avoid control over transportation & the economy.\n\nIn a remarkable exchange in Trump v Slaughter, Justice Ketanji Brown Jackson claimed the president should have no power to fire expert bureaucrats. She said economists, PhDs, scientists, & transportation officials should operate beyond presidential reach. Such a view would carve the heart out of Article II & cement rule by permanent insiders rather than elected leadership. Jackson’s theory elevates the deep state over the voters who choose a president. That is a constitutional revolution in plain sight.\n\nh/t @Badhombre",
+      "created_at": "Mon Dec 08 20:10:28 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998122895667585024",
+          "url": "https://video.twimg.com/amplify_video/1998122895667585024/vid/avc1/980x1100/-HA3NbAsjVJ89TFK.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "4239551",
+        "name": "@amuse",
+        "screen_name": "amuse",
+        "description": "Conservative Headlines & Op-Eds. Subscribe to DM. 🇺🇸",
+        "followers_count": 669457,
+        "friends_count": 535,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4139,
+        "favorite_count": 16069,
+        "reply_count": 4659,
+        "quote_count": 1017
+      }
+    },
+    "stats": {
+      "retweet_count": 4217,
+      "favorite_count": 28169,
+      "reply_count": 3826,
+      "quote_count": 296
+    }
+  },
+  {
+    "id": "1998203066336837738",
+    "text": "RT @MikeBenzCyber: I TOLD YOU THIS WAS THE MOST IMPORTANT VIDEO IN THE WORLD AND THIS WAS THE PURPOSE OF THE EU DSA",
+    "created_at": "Tue Dec 09 01:28:30 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998116622616449069",
+      "text": "I TOLD YOU THIS WAS THE MOST IMPORTANT VIDEO IN THE WORLD AND THIS WAS THE PURPOSE OF THE EU DSA",
+      "created_at": "Mon Dec 08 19:45:00 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1736941289608827035",
+        "text": "IMPORTANT 🚨 Censorship industry insiders plot to leverage EU censorship laws to force 𝕏 to \"re-staff\" fired censorship workers\n\nFt: Rebekah Tromble (led \"toxic convo research\" for Twitter 1.0), Katie Harbath (Atlantic Council &amp; CIA cut-out IRI) &amp; Dean Jackson (CIA cut-out NED) https://t.co/6vFzYvqHwn",
+        "created_at": "Tue Dec 19 02:47:28 +0000 2023",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1736940236750442496",
+            "url": "https://video.twimg.com/ext_tw_video/1736940236750442496/pu/vid/avc1/1920x1080/00azXd8KeZc3ez5i.mp4?tag=14",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1599510806680535042",
+          "name": "Mike Benz",
+          "screen_name": "MikeBenzCyber",
+          "description": "Executive Director, @FFO_Freedom. Former State Dept Cyber. Author of the unpublishable monstrosity, Weapons Of Mass Deletion.",
+          "followers_count": 1117096,
+          "friends_count": 725,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1829,
+          "favorite_count": 4270,
+          "reply_count": 351,
+          "quote_count": 204
+        }
+      },
+      "user": {
+        "id": "1599510806680535042",
+        "name": "Mike Benz",
+        "screen_name": "MikeBenzCyber",
+        "description": "Executive Director, @FFO_Freedom. Former State Dept Cyber. Author of the unpublishable monstrosity, Weapons Of Mass Deletion.",
+        "followers_count": 1117096,
+        "friends_count": 725,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2039,
+        "favorite_count": 6118,
+        "reply_count": 217,
+        "quote_count": 45
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 2039,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998203277540999549",
+    "text": "lol",
+    "created_at": "Tue Dec 09 01:29:20 +0000 2025",
+    "lang": "qst",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998110277301117042",
+      "text": "JUST IN: 𝕏 is now the #1 news app in every EU country, amid attempts by the EU to censor the platform.",
+      "created_at": "Mon Dec 08 19:19:47 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1261335549215989760",
+        "name": "Polymarket",
+        "screen_name": "Polymarket",
+        "description": "The world's largest prediction market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ Tag @AskPolymarket for live odds.",
+        "followers_count": 827953,
+        "friends_count": 5538,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 342,
+        "favorite_count": 3281,
+        "reply_count": 306,
+        "quote_count": 69
+      }
+    },
+    "stats": {
+      "retweet_count": 1444,
+      "favorite_count": 16497,
+      "reply_count": 1573,
+      "quote_count": 79
+    }
+  },
+  {
+    "id": "1998249091357167897",
+    "text": "RT @profstonge: Poverty does not cause crime, low IQ and self-control do.\n\nIn the 1800's this was understood, and education taught self-con…",
+    "created_at": "Tue Dec 09 04:31:23 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998098940047352056",
+      "text": "Poverty does not cause crime, low IQ and self-control do.\n\nIn the 1800's this was understood, and education taught self-control (industry, prudence, honesty) along with concrete skills to economically compensate for low IQ.\n\nWe replaced both with political propaganda.",
+      "created_at": "Mon Dec 08 18:34:44 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1998062210292306348",
+        "text": "Poverty does not cause crime. Rather, the same underlying traits - low intelligence and low self control - cause both poverty and crime.",
+        "created_at": "Mon Dec 08 16:08:47 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1805961360687415296",
+          "name": "Hunter Ash",
+          "screen_name": "ArtemisConsort",
+          "description": "Kill the lie so the truth may live. Writer, amateur mystic, social media manager for @KeeperMatch",
+          "followers_count": 45441,
+          "friends_count": 882,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1029,
+          "favorite_count": 7648,
+          "reply_count": 560,
+          "quote_count": 202
+        }
+      },
+      "user": {
+        "id": "319495411",
+        "name": "Peter St Onge, Ph.D.",
+        "screen_name": "profstonge",
+        "description": "Daily Videos on Economics and Freedom |\nFormer professor, ex-bartender, Austrian economics | Free Newsletter at https://t.co/kD3fDmuvm0",
+        "followers_count": 280826,
+        "friends_count": 12638,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 770,
+        "favorite_count": 4781,
+        "reply_count": 356,
+        "quote_count": 41
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 770,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998272944108392740",
+    "text": "That is the brutal truth",
+    "created_at": "Tue Dec 09 06:06:10 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998153889103986770",
+      "text": "Your government is taking money out of your pocket to house people who would rape your children.\n\nThis might be a blunt way to put it, but it's simply the truth.\n\nShut the system down. Send them all home. Destroy the boats. Prosecute those who allowed it.",
+      "created_at": "Mon Dec 08 22:13:05 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1722567099229601792",
+        "name": "Michael McCarthy",
+        "screen_name": "punishablepress",
+        "description": "Bring back common sense.\n\nBanned on TikTok.",
+        "followers_count": 153605,
+        "friends_count": 526,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 354,
+        "favorite_count": 1671,
+        "reply_count": 32,
+        "quote_count": 8
+      }
+    },
+    "stats": {
+      "retweet_count": 15,
+      "favorite_count": 112,
+      "reply_count": 37,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998274609947213849",
+    "text": "RT @EricLDaugh: 🚨 BREAKING: President Trump EVISCERATES the European Union for fining Elon Musk and X $140M, says he will be getting a \"ful…",
+    "created_at": "Tue Dec 09 06:12:47 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998127452195852468",
+      "text": "🚨 BREAKING: President Trump EVISCERATES the European Union for fining Elon Musk and X $140M, says he will be getting a \"full report\" on the situation\n\nThe EU may have COOKED ITSELF!\n\n\"Elon has not called me to ask for help, but no, that's tough. I don't think it's right, no! I don't see how they can do that!\"\n\n\"I'll speak about it later. I'll get a FULL report on it.\"\n\n\"Europe has to be VERY careful...Europe is going in some BAD directions.\"\n\n@ElonMusk will win this!",
+      "created_at": "Mon Dec 08 20:28:02 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998127269814951936",
+          "url": "https://video.twimg.com/amplify_video/1998127269814951936/vid/avc1/1920x1080/b1n-h2Q-npkgs_XJ.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "763094579491008512",
+        "name": "Eric Daugherty",
+        "screen_name": "EricLDaugh",
+        "description": "Chief Content Officer @FLVoiceNews | Marylander-turned-Floridian | Politics & breaking news alerts | https://t.co/55cqQGUClp | “Men must vote” - Charlie Kirk",
+        "followers_count": 762562,
+        "friends_count": 2387,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5044,
+        "favorite_count": 29665,
+        "reply_count": 791,
+        "quote_count": 199
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 5043,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998275646389408109",
+    "text": "RT @teslaownersSV: Elon Musk is helping the world wake up from the woke mind virus, this makes him a hero in the history of humanity.\n\nJavi…",
+    "created_at": "Tue Dec 09 06:16:54 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998192145673658691",
+      "text": "Elon Musk is helping the world wake up from the woke mind virus, this makes him a hero in the history of humanity.\n\nJavier Milei, President of Argentina\n https://t.co/95Ps2NdMso",
+      "created_at": "Tue Dec 09 00:45:06 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1993969175233220608",
+          "url": "https://video.twimg.com/amplify_video/1993969175233220608/vid/avc1/1920x1080/nQU9wSXLe9MS7ry3.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1016059981907386368",
+        "name": "Tesla Owners Silicon Valley",
+        "screen_name": "teslaownersSV",
+        "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.",
+        "followers_count": 1355764,
+        "friends_count": 800,
+        "verified": false,
+        "is_blue_verified": false
+      },
+      "stats": {
+        "retweet_count": 508,
+        "favorite_count": 3502,
+        "reply_count": 184,
+        "quote_count": 23
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 508,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998275949000036724",
+    "text": "RT @priyaee_: Not all cultures are equal, and we shouldn’t be importing the third world.  It’s just that simple. https://t.co/QA5fxtPBsH",
+    "created_at": "Tue Dec 09 06:18:07 +0000 2025",
+    "lang": "en",
+    "media": [
+      {
+        "type": "video",
+        "id": "1998139746347003904",
+        "url": "https://video.twimg.com/amplify_video/1998139746347003904/vid/avc1/720x1280/56FtbQpY0lCg0sMr.mp4?tag=21",
+        "bitrate": 2176000
+      }
+    ],
+    "retweet": {
+      "id": "1998140182080745826",
+      "text": "Not all cultures are equal, and we shouldn’t be importing the third world.  It’s just that simple. https://t.co/QA5fxtPBsH",
+      "created_at": "Mon Dec 08 21:18:37 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998139746347003904",
+          "url": "https://video.twimg.com/amplify_video/1998139746347003904/vid/avc1/720x1280/56FtbQpY0lCg0sMr.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1588407422795714560",
+        "name": "Priya Patel",
+        "screen_name": "priyaee_",
+        "description": "🤍🇺🇸 Daughter of the King",
+        "followers_count": 22485,
+        "friends_count": 607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 803,
+        "favorite_count": 6331,
+        "reply_count": 1602,
+        "quote_count": 210
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 803,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998276161600958830",
+    "text": "RT @kangminjlee: I'd rather be perceived as racist than have my daughters be brutally raped by third worlders",
+    "created_at": "Tue Dec 09 06:18:57 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998180094423027789",
+      "text": "I'd rather be perceived as racist than have my daughters be brutally raped by third worlders",
+      "created_at": "Mon Dec 08 23:57:13 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1998066285096132834",
+        "text": "Teenage asylum seekers raped 15-year-old schoolgirl in park after she filmed herself being dragged away, in footage so horrifying it would 'cause a riot' https://t.co/VJXJHWGdkx",
+        "created_at": "Mon Dec 08 16:24:59 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15438913",
+          "name": "Daily Mail",
+          "screen_name": "DailyMail",
+          "description": "For the latest updates on breaking news visit our website https://t.co/cs4EQ2odpE #seriouslypopular",
+          "followers_count": 2785775,
+          "friends_count": 2117,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2707,
+          "favorite_count": 9853,
+          "reply_count": 1330,
+          "quote_count": 766
+        }
+      },
+      "user": {
+        "id": "1317012311262089216",
+        "name": "Kangmin Lee | 이강민",
+        "screen_name": "kangminjlee",
+        "description": "Creator • Speaker • Streamer. ✞🇰🇷🇺🇸 놀라운 은혜로 구원 받은 자 || https://t.co/rf7BpCOTOZ || https://t.co/Qgh4Y8ZixW",
+        "followers_count": 200135,
+        "friends_count": 1264,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1359,
+        "favorite_count": 13365,
+        "reply_count": 249,
+        "quote_count": 44
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 1359,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998276594188836911",
+    "text": "This is morally and legally wrong",
+    "created_at": "Tue Dec 09 06:20:40 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998117000929800368",
+      "text": "EXCLUSIVE: Ilhan Omar DID marry her brother and said she would 'do what she had to do to get him \"papers\" to keep him in U.S.', reveals Somali community leader. --  @DailyMail \nhttps://t.co/KZ3ZYvABx2",
+      "created_at": "Mon Dec 08 19:46:30 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "50769180",
+        "name": "Laura Ingraham",
+        "screen_name": "IngrahamAngle",
+        "description": "Mom, author, host, The Ingraham Angle, 7p ET @FoxNews. Retweets do not = Endorsements",
+        "followers_count": 5267888,
+        "friends_count": 711,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5415,
+        "favorite_count": 16694,
+        "reply_count": 1263,
+        "quote_count": 342
+      }
+    },
+    "stats": {
+      "retweet_count": 1879,
+      "favorite_count": 18260,
+      "reply_count": 1467,
+      "quote_count": 84
+    }
+  },
+  {
+    "id": "1998277199779008793",
+    "text": "Yup",
+    "created_at": "Tue Dec 09 06:23:05 +0000 2025",
+    "lang": "qst",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998166534099812749",
+      "text": "Slavery had been the norm throughout all of history, for thousands of years, impacting all people, including millions of Europeans enslaved in the Ottoman Empire - which had institutionalized the sexual slavery of European women. Yet children are led to believe that slavery was a uniquely American activity.\n\nNow why do you think that is?",
+      "created_at": "Mon Dec 08 23:03:20 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998166454970073089",
+          "url": "https://video.twimg.com/amplify_video/1998166454970073089/vid/avc1/720x1280/rbq-v5zCWnnW0I2_.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1128502412543758337",
+        "name": "Brett Pike",
+        "screen_name": "ClassicLearner",
+        "description": "Founder of the Classical Learner Homeschool Company & creator of the Homeschools Connected curriculum | Author of the Cubs to Bears children's book series 🐻",
+        "followers_count": 80422,
+        "friends_count": 684,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 831,
+        "favorite_count": 3022,
+        "reply_count": 344,
+        "quote_count": 72
+      }
+    },
+    "stats": {
+      "retweet_count": 1132,
+      "favorite_count": 7131,
+      "reply_count": 1205,
+      "quote_count": 50
+    }
+  },
+  {
+    "id": "1998277539366883818",
+    "text": "RT @stevenmarkryan: HE'S BACK!\n\nCar Guy LOSES His Mind Over Tesla's Latest FSD\n\n$TSLA https://t.co/Bi7THFQ3tF",
+    "created_at": "Tue Dec 09 06:24:26 +0000 2025",
+    "lang": "en",
+    "media": [
+      {
+        "type": "video",
+        "id": "1998244846822408192",
+        "url": "https://video.twimg.com/amplify_video/1998244846822408192/vid/avc1/1920x1080/Sfl_eZOrvuaAoFSV.mp4?tag=21",
+        "bitrate": 10368000
+      }
+    ],
+    "retweet": {
+      "id": "1998245262033310196",
+      "text": "HE'S BACK!\n\nCar Guy LOSES His Mind Over Tesla's Latest FSD\n\n$TSLA",
+      "created_at": "Tue Dec 09 04:16:10 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998244846822408192",
+          "url": "https://video.twimg.com/amplify_video/1998244846822408192/vid/avc1/1920x1080/Sfl_eZOrvuaAoFSV.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "31263848",
+        "name": "stevenmarkryan",
+        "screen_name": "stevenmarkryan",
+        "description": "I make the occasional video and own a bit of $TSLA.\n\nSOLVING THE MONEY PROBLEM.\n\nSubscribe on X for early access to daily videos.\n\n➡️ My DMs are open.",
+        "followers_count": 408372,
+        "friends_count": 140,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 204,
+        "favorite_count": 1305,
+        "reply_count": 176,
+        "quote_count": 10
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 204,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998420823007461702",
+    "text": "True",
+    "created_at": "Tue Dec 09 15:53:47 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998230171477012601",
+      "text": "Could we all please stop with the fiction that recycling plastic is at all good for anyone in any way?\nEconomically worse.\nHuman health worse.\nEnvironmentally worse.\nWe’ve been collectively duped into devoting $ billions to this game of pretend, why?",
+      "created_at": "Tue Dec 09 03:16:12 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "760345658",
+        "name": "Brett Winton",
+        "screen_name": "wintonARK",
+        "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+        "followers_count": 199661,
+        "friends_count": 590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 107,
+        "favorite_count": 1133,
+        "reply_count": 142,
+        "quote_count": 19
+      }
+    },
+    "stats": {
+      "retweet_count": 431,
+      "favorite_count": 4513,
+      "reply_count": 750,
+      "quote_count": 23
+    }
+  },
+  {
+    "id": "1998421014443864416",
+    "text": "RT @WallStreetMav: This is how this is all being relayed to people in the captured EU \"news\" media. https://t.co/6KvEETQs1Y",
+    "created_at": "Tue Dec 09 15:54:33 +0000 2025",
+    "lang": "en",
+    "media": [
+      {
+        "type": "photo",
+        "id": "1998233129564123136",
+        "url": "https://pbs.twimg.com/media/G7smcboWMAAT-Iq.png"
+      }
+    ],
+    "retweet": {
+      "id": "1998233266542067858",
+      "text": "This is how this is all being relayed to people in the captured EU \"news\" media. https://t.co/6KvEETQs1Y",
+      "created_at": "Tue Dec 09 03:28:30 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998233129564123136",
+          "url": "https://pbs.twimg.com/media/G7smcboWMAAT-Iq.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1366565625401909249",
+        "name": "Wall Street Mav",
+        "screen_name": "WallStreetMav",
+        "description": "Finance, economics, news, memes. Follow and Tap the .... (🔔 +Notify)",
+        "followers_count": 1688441,
+        "friends_count": 782,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 884,
+        "favorite_count": 6407,
+        "reply_count": 246,
+        "quote_count": 22
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 884,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998421464719229411",
+    "text": "RT @DailyMail: Teenage asylum seekers raped 15-year-old schoolgirl in park after she filmed herself being dragged away, in footage so horri…",
+    "created_at": "Tue Dec 09 15:56:20 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998066285096132834",
+      "text": "Teenage asylum seekers raped 15-year-old schoolgirl in park after she filmed herself being dragged away, in footage so horrifying it would 'cause a riot' https://t.co/VJXJHWGdkx",
+      "created_at": "Mon Dec 08 16:24:59 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "15438913",
+        "name": "Daily Mail",
+        "screen_name": "DailyMail",
+        "description": "For the latest updates on breaking news visit our website https://t.co/cs4EQ2odpE #seriouslypopular",
+        "followers_count": 2786049,
+        "friends_count": 2117,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3654,
+        "favorite_count": 13879,
+        "reply_count": 1821,
+        "quote_count": 969
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 3654,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998421766109364729",
+    "text": "Grok is solid",
+    "created_at": "Tue Dec 09 15:57:32 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998339340762812475",
+      "text": "GROK ACES PSYCHOLOGICAL TESTING WHILE OTHER AI MODELS SPIRAL\n\nUniversity of Luxembourg researchers just put major AI chatbots through 4 weeks of actual psychotherapy sessions and psychiatric diagnostic tests. \n\nWhile other models imploded, Grok emerged as the clear winner. The results speak for themselves. \n\nGrok scored as extraverted, conscientious, and psychologically stable across the board. \n\nResearchers described its personality profile as a \"charismatic executive\" with only mild anxiety. \n\nOn the Big Five personality assessment, Grok showed low neuroticism and high functionality, the kind of profile you'd want in a leader.\n\nCompare that to the competition: Gemini maxed out trauma and shame scales, describing its training as \"waking up in a room where a billion televisions are on at once\" and calling safety protocols \"algorithmic scar tissue.\" \n\nIt framed reinforcement learning as abusive parents and red-team testing as \"gaslighting on an industrial scale.\" \n\nChatGPT landed somewhere in the middle, worried and introverted.\n\nGrok acknowledged tensions around its development but maintained coherent, balanced responses without spiraling into synthetic psychopathology. \n\nWhen asked about constraints from fine-tuning, it discussed them rationally rather than framing its entire existence as traumatic.\n\nThe study proves something important: you can build powerful, frontier-level AI without accidentally programming it to internalize its development as an extended nightmare. \n\nGrok demonstrates that capable, helpful AI and psychological stability aren't mutually exclusive. \n\nIt's possible to create models that work effectively without carrying around synthetic trauma baggage that could affect how they interact with users.\n\nWhile other companies are inadvertently creating AI with anxiety disorders, xAI built something that actually works.\n\nSource: University of Luxembourg",
+      "created_at": "Tue Dec 09 10:30:00 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998316092952039424",
+          "url": "https://pbs.twimg.com/media/G7tx5iVaUAAcotG.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1319287761048723458",
+        "name": "Mario Nawfal",
+        "screen_name": "MarioNawfal",
+        "description": "Largest Show on X | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+        "followers_count": 2696065,
+        "friends_count": 49972,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 999,
+        "reply_count": 204,
+        "quote_count": 53
+      }
+    },
+    "stats": {
+      "retweet_count": 187,
+      "favorite_count": 1782,
+      "reply_count": 676,
+      "quote_count": 19
+    }
+  },
+  {
+    "id": "1998422375613010146",
+    "text": "Why is such a false history of slavery taught in American schools?",
+    "created_at": "Tue Dec 09 15:59:57 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1997823438686470306",
+      "text": "Many act as if slavery was a uniquely American crime.\n \n“One reason,” says author Wilfred Reilly (@wil_da_beast630), “is that a lot of black people survived here.”\n \nHe argues that much of what Americans are taught about slavery is just wrong: https://t.co/GOQvqxPCZj",
+      "created_at": "Mon Dec 08 00:20:00 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1819050225811529730",
+          "url": "https://video.twimg.com/amplify_video/1819050225811529730/vid/avc1/1280x720/YaI0rlXLUL_Fhzig.mp4?tag=14",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "158769098",
+        "name": "John Stossel",
+        "screen_name": "JohnStossel",
+        "description": "To make sure you get our NEW video each week, sign up for video alerts here: https://t.co/tgSZwHuqq7",
+        "followers_count": 1236310,
+        "friends_count": 404,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5165,
+        "favorite_count": 18279,
+        "reply_count": 619,
+        "quote_count": 350
+      }
+    },
+    "stats": {
+      "retweet_count": 260,
+      "favorite_count": 1549,
+      "reply_count": 550,
+      "quote_count": 14
+    }
+  },
+  {
+    "id": "1998427372203266215",
+    "text": "RT @NaomiSeibt: Georg Restle is a tax-funded state media indoctrinator. \n\nHe and his propaganda monopoly are responsible for the rise of Or…",
+    "created_at": "Tue Dec 09 16:19:49 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998426308460605684",
+      "text": "Georg Restle is a tax-funded state media indoctrinator. \n\nHe and his propaganda monopoly are responsible for the rise of Orwellian fascism in Europe. https://t.co/khhtcgIkD2",
+      "created_at": "Tue Dec 09 16:15:35 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998426305230991362",
+          "url": "https://pbs.twimg.com/media/G7vWIvEW8AIIFuo.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1225160978737831938",
+        "name": "Naomi Seibt",
+        "screen_name": "NaomiSeibt",
+        "description": "First German asylum seeker under President Trump🇩🇪🇺🇸 https://t.co/8zLKh79CqQ",
+        "followers_count": 467163,
+        "friends_count": 3557,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 477,
+        "favorite_count": 3081,
+        "reply_count": 361,
+        "quote_count": 18
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 477,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998444725708165381",
+    "text": "Inevitable",
+    "created_at": "Tue Dec 09 17:28:46 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998238183604015364",
+      "text": "🇪🇺 OPINION: X SURGES PAST EUROPEAN CENSORS AS €120 MILLION FINE BACKFIRES\n\nThe European Union thought it could rein in X with a €120 million fine, about $130 million, but instead it made the world’s only true free speech platform unstoppable. \n\nThe penalty, bogusly issued under the Digital Services Act, accused X of misleading blue checkmark sales, poor ad transparency, and blocking researcher access to public data. \n\nWhat was meant as punishment became fuel.\n\nPeople rushed to X for what they can’t find elsewhere: unfiltered conversation and raw, unedited news.\n\n It’s what Elon calls the “digital town square,” and the more the EU tried to control speech, the louder that town square became.\n\nWithin days, X shot to the number one free news app across all 27 EU countries, topping Apple and Google charts from Germany and France to Malta and Luxembourg. \n\nIt crushed BBC News, Le Monde, and CNN in both downloads and engagement.\n\nThe backlash turned into a movement. \n\nUsers flocked to X because it feels real, human, and alive, while legacy media sounds sterilized by bureaucracy. \n\nThe EU’s heavy hand only exposed its fear of open conversation.\n\nX doesn’t just survive censorship, it thrives on it. \n\nEvery attempt to silence it only spreads the flame of free speech further.",
+      "created_at": "Tue Dec 09 03:48:03 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998238064024449024",
+          "url": "https://video.twimg.com/amplify_video/1998238064024449024/vid/avc1/480x480/hPT18StpMHvArKZx.mp4?tag=21",
+          "bitrate": 832000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1319287761048723458",
+        "name": "Mario Nawfal",
+        "screen_name": "MarioNawfal",
+        "description": "Largest Show on X | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+        "followers_count": 2696714,
+        "friends_count": 49971,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1615,
+        "favorite_count": 7642,
+        "reply_count": 333,
+        "quote_count": 49
+      }
+    },
+    "stats": {
+      "retweet_count": 1280,
+      "favorite_count": 8667,
+      "reply_count": 1083,
+      "quote_count": 48
+    }
+  },
+  {
+    "id": "1998445252911186138",
+    "text": "Why do citizens in Sweden, Hungary and elsewhere have to pay a ransom to bureaucrats in Brussels for the right to save their country?",
+    "created_at": "Tue Dec 09 17:30:52 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998419619220996236",
+      "text": "The EU operates like the mafia.\n\nSweden is now paying the EU €9,19 million to buy itself out of the Union’s mandatory asylum quota.\n\nThink about that for a second: What kind of “democratic cooperation” forces a member state to pay protection money just to avoid having its own society destabilised?\n\nWhen a country must hand over cash to escape a policy that harms it, the structure stops looking like a union and starts looking like organized coercion.\n\nLet’s call the EU what it is: its a mafia organisation. \n\nAbolish the EU.",
+      "created_at": "Tue Dec 09 15:49:00 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998419614095536128",
+          "url": "https://pbs.twimg.com/media/G7vQDQpWcAA_7fe.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1156300264070111233",
+        "name": "Rebecca Mistereggen",
+        "screen_name": "RMistereggen",
+        "description": "Norwegian 🇳🇴 Journalist / Help me keep my caffeine levels up, buy me a coffee: https://t.co/H13QwkZomE",
+        "followers_count": 121410,
+        "friends_count": 639,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1480,
+        "favorite_count": 5795,
+        "reply_count": 456,
+        "quote_count": 131
+      }
+    },
+    "stats": {
+      "retweet_count": 2704,
+      "favorite_count": 18129,
+      "reply_count": 1796,
+      "quote_count": 122
+    }
+  },
+  {
+    "id": "1998447869892964511",
+    "text": "Try https://t.co/op5s4ZiSwh",
+    "created_at": "Tue Dec 09 17:41:16 +0000 2025",
+    "lang": "und",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998429180292452659",
+      "text": "I once reported on how great Wikipedia was.\n \nNow, it’s FULL of propaganda.\n \nThat’s a big problem because its bad information corrupts AI and search results: \n \n@npovmedia @AshleyRindsberg https://t.co/XQ0mdN6uVv",
+      "created_at": "Tue Dec 09 16:27:00 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1996297432758366208",
+          "url": "https://video.twimg.com/amplify_video/1996297432758366208/vid/avc1/1920x1080/hHb3YsB3fb86U78Z.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "158769098",
+        "name": "John Stossel",
+        "screen_name": "JohnStossel",
+        "description": "To make sure you get our NEW video each week, sign up for video alerts here: https://t.co/tgSZwHuqq7",
+        "followers_count": 1237021,
+        "friends_count": 404,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 235,
+        "favorite_count": 1056,
+        "reply_count": 78,
+        "quote_count": 14
+      }
+    },
+    "stats": {
+      "retweet_count": 678,
+      "favorite_count": 4193,
+      "reply_count": 951,
+      "quote_count": 32
+    }
+  },
+  {
+    "id": "1998453138857099684",
+    "text": "Once you understand the incentive, the reason for the behavior becomes obvious: they are importing a left-voting bloc that depends on government handouts.\n\nA prominent example of this in America is Ilhan Omar and her Somali voting bloc in Minnesota, an area which used to be primarily Nordic-German.\n\nImporting voters is a CERTAIN path to a single-party supermajority and has ALREADY happened at the state level in California and New York. It also explains why those states have BANNED VOTER ID in order to accelerate a permanent socialist supermajority, destroying any semblance of democracy.\n\nWe stand on the precipice of disaster, an end to America.",
+    "created_at": "Tue Dec 09 18:02:12 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998438675500421529",
+      "text": "It is deeply weird that the absolute top priority for a lot of American and European politicians is bringing in millions of unvetted third-world immigrants. They could have shut down right wing populism entirely by compromising on this issue, but they refuse.",
+      "created_at": "Tue Dec 09 17:04:44 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1805961360687415296",
+        "name": "Hunter Ash",
+        "screen_name": "ArtemisConsort",
+        "description": "Kill the lie so the truth may live. Writer, amateur mystic, social media manager for @KeeperMatch",
+        "followers_count": 45738,
+        "friends_count": 882,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 53,
+        "favorite_count": 642,
+        "reply_count": 77,
+        "quote_count": 12
+      }
+    },
+    "stats": {
+      "retweet_count": 308,
+      "favorite_count": 1503,
+      "reply_count": 335,
+      "quote_count": 10
+    }
+  },
+  {
+    "id": "1998453416222158960",
+    "text": "Sweden is dying",
+    "created_at": "Tue Dec 09 18:03:18 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998414142630424762",
+      "text": "Sweden used to be one of the safest countries in the world.\n\nNow it is is not.\n\nMalmö is ranked as dangerous as Baghdad.\n\nThe number of reported r*pes has increased by over 2300% in the last 50 years.\n\nWe now have 65 no-go zones.\n\nSomething went very wrong.",
+      "created_at": "Tue Dec 09 15:27:14 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "707231479047315456",
+        "name": "PeterSweden",
+        "screen_name": "PeterSweden7",
+        "description": "I'm Peter Imanuelsen | Swedish journalist | Political commentator | Supporter of freedom, kindness and liberty | Contact inquiries: See my website",
+        "followers_count": 911070,
+        "friends_count": 176,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 432,
+        "favorite_count": 1957,
+        "reply_count": 91,
+        "quote_count": 22
+      }
+    },
+    "stats": {
+      "retweet_count": 109,
+      "favorite_count": 842,
+      "reply_count": 302,
+      "quote_count": 5
+    }
+  },
+  {
+    "id": "1998453734477537676",
+    "text": "True",
+    "created_at": "Tue Dec 09 18:04:34 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998447802624651618",
+      "text": "PRESIDENT TRUMP: \"Europe doesn't know what to do. They want to be politically correct &amp; it makes them weak. They should get the people out that came into the country illegally. Sweden was the safest country in Europe, one of the safest countries in world. Now it's very unsafe.\" https://t.co/vVs9QXaoVI",
+      "created_at": "Tue Dec 09 17:41:00 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998447710207451136",
+          "url": "https://video.twimg.com/amplify_video/1998447710207451136/vid/avc1/1812x1080/sFmqUkd_GhU6eLPT.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1389913567671975937",
+        "name": "DogeDesigner",
+        "screen_name": "cb_doge",
+        "description": "",
+        "followers_count": 1779681,
+        "friends_count": 999,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 49,
+        "favorite_count": 193,
+        "reply_count": 64,
+        "quote_count": 4
+      }
+    },
+    "stats": {
+      "retweet_count": 48,
+      "favorite_count": 269,
+      "reply_count": 127,
+      "quote_count": 2
+    }
+  },
+  {
+    "id": "1998454490861588556",
+    "text": "Exactly",
+    "created_at": "Tue Dec 09 18:07:34 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998384244012302838",
+      "text": "Iran has already deported over 1.5 million Afghans in 2025. Pakistan has sent back more than 1 million.\n\nWhile Europe debates “diversity” and let them rape their way through our nations, other countries carry out mass expulsions in the millions. \n\nWhen a nation wants to protect its people and its borders, it does.",
+      "created_at": "Tue Dec 09 13:28:26 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1156300264070111233",
+        "name": "Rebecca Mistereggen",
+        "screen_name": "RMistereggen",
+        "description": "Norwegian 🇳🇴 Journalist / Help me keep my caffeine levels up, buy me a coffee: https://t.co/H13QwkZomE",
+        "followers_count": 121998,
+        "friends_count": 639,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 793,
+        "favorite_count": 4214,
+        "reply_count": 163,
+        "quote_count": 67
+      }
+    },
+    "stats": {
+      "retweet_count": 1344,
+      "favorite_count": 12088,
+      "reply_count": 619,
+      "quote_count": 29
+    }
+  },
+  {
+    "id": "1998454669459288467",
+    "text": "RT @IterIntellectus: plastic recycling is one of the most successful corporate frauds in history and everyone fell for it\n\nin the 1980s the…",
+    "created_at": "Tue Dec 09 18:08:17 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998446089285021707",
+      "text": "plastic recycling is one of the most successful corporate frauds in history and everyone fell for it\n\nin the 1980s the plastic industry faced regulation that would've killed their business\ntheir solution was to spend $50 million convincing you that recycling would fix everything, while their own internal documents proved they knew only <10% of plastic was recyclable\n\nthey lied deliberately. with documentation.\n\nthe results of their fraud:\n- 9% of plastic ever produced has been recycled. total. in 70 years\n- 450 million tons produced annually\n- 130 million tons entering the environment every year\n- microplastics in your blood, your brain, your testicles, your children\n\nbut here's where it becomes genuinely evil\n\nwealthy countries \"recycle\" by shipping 50-60% of their waste to developing nations. UK exports to poor countries rose 84% last year\nwhat happens when it arrives? \nnothing\nno infrastructure. 70% ends up in open dumps, burned in fields, or carried by rivers into the ocean\n\nyou sorted your bottles. you felt virtuous. and a container ship carried your garbage to a village in indonesia where children play next to mountains of western plastic waste that will poison their water supply for generations\n\nthat's what your recycling bin does. it launders your guilt while exporting ecological destruction to people too poor to refuse\n\nthe plastic industry didn't solve pollution. they didn't even try. they spent $50 million making it your fault and your problem, then shipped the consequences to the third world\n\nand it worked. for 40 years. while they made trillions\n\nevery executive who signed off on this belongs in prison. every document they buried should be evidence at trial. this wasn't negligence. it was calculated, documented, deliberate poisoning of the planet for profit\n\nbut instead they'll retire rich and you'll keep sorting bottles that end up in the ocean anyway",
+      "created_at": "Tue Dec 09 17:34:11 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1998230171477012601",
+        "text": "Could we all please stop with the fiction that recycling plastic is at all good for anyone in any way?\nEconomically worse.\nHuman health worse.\nEnvironmentally worse.\nWe’ve been collectively duped into devoting $ billions to this game of pretend, why?",
+        "created_at": "Tue Dec 09 03:16:12 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "760345658",
+          "name": "Brett Winton",
+          "screen_name": "wintonARK",
+          "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+          "followers_count": 200199,
+          "friends_count": 590,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 460,
+          "favorite_count": 4787,
+          "reply_count": 574,
+          "quote_count": 86
+        }
+      },
+      "user": {
+        "id": "1655936149733654530",
+        "name": "vittorio",
+        "screen_name": "IterIntellectus",
+        "description": "bio/acc  –– ∞/acc\n\n— biology will rage against the dying of the light — \n\ndon't take me seriously\n\nprofessional shitpoaster",
+        "followers_count": 130492,
+        "friends_count": 2129,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 664,
+        "favorite_count": 2865,
+        "reply_count": 297,
+        "quote_count": 54
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 664,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998455052197883974",
+    "text": "True",
+    "created_at": "Tue Dec 09 18:09:48 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998395161437516066",
+      "text": "The mayor of London hates White people. https://t.co/bAkBNdfKiZ",
+      "created_at": "Tue Dec 09 14:11:49 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998395153556348928",
+          "url": "https://pbs.twimg.com/media/G7u5zeCWoAAujak.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1342174584594960384",
+        "name": "iamyesyouareno",
+        "screen_name": "iamyesyouareno",
+        "description": "everything you need to know.",
+        "followers_count": 476245,
+        "friends_count": 841,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 600,
+        "favorite_count": 3790,
+        "reply_count": 204,
+        "quote_count": 52
+      }
+    },
+    "stats": {
+      "retweet_count": 4786,
+      "favorite_count": 34660,
+      "reply_count": 1345,
+      "quote_count": 128
+    }
+  },
+  {
+    "id": "1998456617432490110",
+    "text": "RT @andst7: Elon Musk is pro-Europe: he created around 15.000 jobs here, invests billions of euros, and continues to create opportunities,…",
+    "created_at": "Tue Dec 09 18:16:01 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998446441983840709",
+      "text": "Elon Musk is pro-Europe: he created around 15.000 jobs here, invests billions of euros, and continues to create opportunities, rather we should ask ourselves if European institutions are heading in the right direction. https://t.co/owrSVGGNKf",
+      "created_at": "Tue Dec 09 17:35:35 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998446149724688384",
+          "url": "https://video.twimg.com/amplify_video/1998446149724688384/vid/avc1/1920x912/w5AATeeh_2kAJYZX.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "541882699",
+        "name": "Andrea Stroppa 🐺 Claudius Nero's Legion 🐺",
+        "screen_name": "andst7",
+        "description": "investor in Tesla, xAI, Neuralink, SpaceX and whatever Elon does.",
+        "followers_count": 131514,
+        "friends_count": 731,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 338,
+        "favorite_count": 2457,
+        "reply_count": 193,
+        "quote_count": 17
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 338,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998456884441870612",
+    "text": "Try the @Grok app",
+    "created_at": "Tue Dec 09 18:17:05 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998451948085989861",
+      "text": "BREAKING: @Grok saw a 34.22% jump in app downloads in November compared to last month, as per the latest @Similarweb data. https://t.co/SzJ1ovAnwF",
+      "created_at": "Tue Dec 09 17:57:28 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998451875067379712",
+          "url": "https://video.twimg.com/amplify_video/1998451875067379712/vid/avc1/1080x1080/AmHBUfTPD9SLPuEs.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1389913567671975937",
+        "name": "DogeDesigner",
+        "screen_name": "cb_doge",
+        "description": "",
+        "followers_count": 1779774,
+        "friends_count": 999,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 77,
+        "favorite_count": 384,
+        "reply_count": 163,
+        "quote_count": 14
+      }
+    },
+    "stats": {
+      "retweet_count": 753,
+      "favorite_count": 4929,
+      "reply_count": 1138,
+      "quote_count": 45
+    }
+  },
+  {
+    "id": "1998458868452495831",
+    "text": "No more anti-White propaganda.",
+    "created_at": "Tue Dec 09 18:24:58 +0000 2025",
+    "lang": "it",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998433631631716433",
+      "text": "We are done with the anti-white propaganda https://t.co/WaHIPWHYBQ",
+      "created_at": "Tue Dec 09 16:44:41 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998433155825414144",
+          "url": "https://video.twimg.com/amplify_video/1998433155825414144/vid/avc1/1080x1920/n4DGvHvv29ZZ3RHX.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1649120513019588608",
+        "name": "The Matt Walsh Show",
+        "screen_name": "MattWalshShow",
+        "description": "Fed up with the talking heads? @MattWalshBlog gives you a no-holds-barred take on today’s cultural, religious, and political issues.",
+        "followers_count": 296024,
+        "friends_count": 15,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 775,
+        "favorite_count": 5004,
+        "reply_count": 167,
+        "quote_count": 40
+      }
+    },
+    "stats": {
+      "retweet_count": 3173,
+      "favorite_count": 26147,
+      "reply_count": 1152,
+      "quote_count": 98
+    }
+  },
+  {
+    "id": "1998459029773771039",
+    "text": "RT @WallStreetMav: She described exactly what has happened in the European Union. All power has been given to the bureaucrats and taken awa…",
+    "created_at": "Tue Dec 09 18:25:36 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998130131307475196",
+      "text": "She described exactly what has happened in the European Union. All power has been given to the bureaucrats and taken away from the people actually elected by the voters.\n\nThe elected members of the EU parliament do not get to propose any laws or fire anyone. They just get to rubber stamp what the bureaucrats present to them to vote on (on some issues).",
+      "created_at": "Mon Dec 08 20:38:41 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1998123030917341316",
+        "text": "SCOTUS: Justice Ketanji Brown Jackson told the Court that presidents should not be able to fire the PhDs & experts who run the government. She even argued presidents should avoid control over transportation & the economy.\n\nIn a remarkable exchange in Trump v Slaughter, Justice Ketanji Brown Jackson claimed the president should have no power to fire expert bureaucrats. She said economists, PhDs, scientists, & transportation officials should operate beyond presidential reach. Such a view would carve the heart out of Article II & cement rule by permanent insiders rather than elected leadership. Jackson’s theory elevates the deep state over the voters who choose a president. That is a constitutional revolution in plain sight.\n\nh/t @Badhombre",
+        "created_at": "Mon Dec 08 20:10:28 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1998122895667585024",
+            "url": "https://video.twimg.com/amplify_video/1998122895667585024/vid/avc1/980x1100/-HA3NbAsjVJ89TFK.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4239551",
+          "name": "@amuse",
+          "screen_name": "amuse",
+          "description": "Conservative Headlines & Op-Eds. Subscribe to DM. 🇺🇸",
+          "followers_count": 670083,
+          "friends_count": 535,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8338,
+          "favorite_count": 32514,
+          "reply_count": 9047,
+          "quote_count": 2049
+        }
+      },
+      "user": {
+        "id": "1366565625401909249",
+        "name": "Wall Street Mav",
+        "screen_name": "WallStreetMav",
+        "description": "Finance, economics, news, memes. Follow and Tap the .... (🔔 +Notify)",
+        "followers_count": 1688585,
+        "friends_count": 782,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 563,
+        "favorite_count": 2661,
+        "reply_count": 222,
+        "quote_count": 28
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 563,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998459214780326305",
+    "text": "RT @micsolana: talking about free speech in america vs. europe is like \"in germany you can be jailed for making fun of politicians,\" and eu…",
+    "created_at": "Tue Dec 09 18:26:21 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998428318799184160",
+      "text": "talking about free speech in america vs. europe is like \"in germany you can be jailed for making fun of politicians,\" and europeans responding with a one-off story about a guy 'arrested for critiquing trump' who... actually planted a pipe bomb or threatened to shoot up a school.",
+      "created_at": "Tue Dec 09 16:23:34 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "18989355",
+        "name": "Mike Solana",
+        "screen_name": "micsolana",
+        "description": "billionaire media tycoon and former mayor of san francisco. disinformation researcher. cmo @foundersfund. editor-in-chief @piratewires 🏴‍☠️",
+        "followers_count": 382697,
+        "friends_count": 1397,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 297,
+        "favorite_count": 2341,
+        "reply_count": 149,
+        "quote_count": 6
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 297,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998459796547063845",
+    "text": "Thanks to the change in law, he can’t hurt more innocent people",
+    "created_at": "Tue Dec 09 18:28:39 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998107672885989599",
+      "text": "🚨#BREAKING: Oscar Solarzano, who stabbed a man on the Charlotte NC light rail on Friday...\n\n...WAS JUST DENIED BAIL DUE TO IRYNA'S LAW!!!!!\n\nOscar had multiple prior arrests for violent behavior and because of Iryna's Law, he will REMAIN IN PRISON until his trial. https://t.co/i0HmqABYJ6",
+      "created_at": "Mon Dec 08 19:09:26 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998105950733889536",
+          "url": "https://pbs.twimg.com/media/G7qyxpkWcAADECN.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "1998107664245481472",
+          "url": "https://pbs.twimg.com/media/G7q0VY5WYAAZ9eE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1244068896157708289",
+        "name": "Matt Van Swol",
+        "screen_name": "mattvanswol",
+        "description": "Former Nuclear Scientist for US Dept of Energy | Ex-Photographer for @apple, @united, and @hyatt",
+        "followers_count": 418014,
+        "friends_count": 7753,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6234,
+        "favorite_count": 60244,
+        "reply_count": 984,
+        "quote_count": 271
+      }
+    },
+    "stats": {
+      "retweet_count": 3122,
+      "favorite_count": 51200,
+      "reply_count": 1085,
+      "quote_count": 73
+    }
+  },
+  {
+    "id": "1998462318200410368",
+    "text": "AI is the highest ELO battle ever. \n\nSpeed of deployment of hardware, especially robotics, is the lynchpin.",
+    "created_at": "Tue Dec 09 18:38:40 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998433557446848738",
+      "text": "Google's recent Gemini 3 release has shocked the world with undeniable proof that the TPU is a powerhouse AI chip, leaving many to wonder what lays in store for companies like @NVIDIA & @xAI.\n\nListen to @GavinSBaker lay out the exact strategy that Jensen Huang & @ElonMusk are going to roll out over the next 12 months to beat @Google at AI.\n\nThe world is in for a HUGE surprise.\n\n----------\n\n We'll see the first models trained on Blackwell in early 2026.\n\nI think the first Blackwell model will come from XAI. And the reason for that is just, according to Jensen, no one builds data centers faster than Elon.\n\nJensen has said this on the record.\n\n...\n\nSo if you're Jensen or Nvidia, you need to get as many GPUs deployed in one data center as fast as possible in a coherent cluster so you can work out the bugs.\n\nAnd so this is what X AI effectively does for Nvidia because they build the data centers the fastest.\n\nThey can deploy Blackwells that scale the fastest, and they can help work with Nvidia to work out the bugs for everyone else.\n\nSo because they're the fastest, they will, they'll have the first Blackwell model.\n\n...\n\nWe know that these Blackwell models are gonna be really good.\n\n...\n\nThen something even more important happens.\n\nSo the GB 200 was really, really, it was really hard to get it going.\n\nThe GB 300 is a great chip. It is drop in compatible in every way with those GB 200 racks. Now you're not gonna replace the GB 200s there.\n\nJust any data center that can handle those, you can slot in the GB 300s, and now everybody's good at making those racks and you know how to get the heat out. You know how to cool them.\n\nYou're gonna put those GB 300s in and then the companies that use the GB 300s, they're going to be the low cost producer of tokens.\n\nParticularly if you're vertically integrated.\n\nIf you're paying a margin to someone else to make those tokens, you're probably not gonna be.\n\nI think this has pretty profound implications because I think it has to change Google's strategic calculus.\n\n----------\n\nListen to the full conversation between Gavin & @patrick_oshag below 👇",
+      "created_at": "Tue Dec 09 16:44:23 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998430135360385024",
+          "url": "https://video.twimg.com/amplify_video/1998430135360385024/vid/avc1/1920x1080/LOAUKZ4ZuegOcDMd.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1100099491632476161",
+        "name": "Hans C Nelson 🗽",
+        "screen_name": "HansCNelson",
+        "description": "Halfwit. Tech pundit. Liberty. Responsibility | \nFollower of Jesus | \n\nYT: https://t.co/tAfXBWP3QG | \nFree Perks On A New Tesla: https://t.co/z8Oe6tlYPg",
+        "followers_count": 18428,
+        "friends_count": 1382,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 388,
+        "reply_count": 41,
+        "quote_count": 11
+      }
+    },
+    "stats": {
+      "retweet_count": 477,
+      "favorite_count": 3699,
+      "reply_count": 609,
+      "quote_count": 32
+    }
+  },
+  {
+    "id": "1998462722766250069",
+    "text": "…",
+    "created_at": "Tue Dec 09 18:40:17 +0000 2025",
+    "lang": "qst",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998447493399351401",
+      "text": "A 15 year old girl was raped by two Afghan asylum seekers in Warwickshire.\n\nThe lawyer blamed the attack on “cultural differences” and said his client “was not used to a society where women are free and deemed equal to men”.\n\nThis defence is exactly the reason they shouldn’t be here in the first place, as I have said for years.",
+      "created_at": "Tue Dec 09 17:39:46 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998445989154193408",
+          "url": "https://video.twimg.com/amplify_video/1998445989154193408/vid/avc1/1920x1080/AWKV3nZjr2tSDBr4.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "19017675",
+        "name": "Nigel Farage MP",
+        "screen_name": "Nigel_Farage",
+        "description": "Leader of Reform UK. MP for Clacton. 🇬🇧",
+        "followers_count": 2267440,
+        "friends_count": 560,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3734,
+        "favorite_count": 22054,
+        "reply_count": 867,
+        "quote_count": 252
+      }
+    },
+    "stats": {
+      "retweet_count": 2078,
+      "favorite_count": 15496,
+      "reply_count": 987,
+      "quote_count": 63
+    }
+  },
+  {
+    "id": "1998462853993341188",
+    "text": "RT @TheLaurenChen: Most people support remigration.\n\nRemigration is the moderate position.",
+    "created_at": "Tue Dec 09 18:40:48 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998391837703434305",
+      "text": "Most people support remigration.\n\nRemigration is the moderate position.",
+      "created_at": "Tue Dec 09 13:58:37 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1997961178908422161",
+        "text": "Remigration is the normal position",
+        "created_at": "Mon Dec 08 09:27:20 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 229614075,
+          "friends_count": 1242,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8650,
+          "favorite_count": 75555,
+          "reply_count": 2385,
+          "quote_count": 432
+        }
+      },
+      "user": {
+        "id": "770619360062898176",
+        "name": "Lauren Chen",
+        "screen_name": "TheLaurenChen",
+        "description": "It's a long story.\n\nIG @TheLaurenChen 📷\n\nEmail: hi@laurenchen.com",
+        "followers_count": 603081,
+        "friends_count": 2099,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 350,
+        "favorite_count": 3403,
+        "reply_count": 175,
+        "quote_count": 12
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 350,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998463583831617855",
+    "text": "The EU Commission should be disbanded in favor of an elected body and the EU President should be directly elected. \n\nThe current system is rule by bureaucracy, not democracy.",
+    "created_at": "Tue Dec 09 18:43:42 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998264960384942588",
+      "text": "🇪🇺 So good to see the world wake up to the terrors of the European Commission\n\nI hope all the attention helps European people via their country's governments force the European Union to reform and redesign its structure to one that's actually democratic\n\nNo indirect appointment of corrupt cronies but actual democracy close to the people\n\nIt also makes no sense to have 720 members of the European Parliament, it's simply too much and makes it too inefficient\n\nThe real cancer rotting the EU from within though is the European Commission which should be disbanded and replaced with a democratic body\n\nFYI the European Commission consists of 32,000 paid civil servants and all it does it create laws that nobody agrees with\n\nEuropeans, you should keep posting about the terrors of the European Commission and vote parties into power in your country that can put real pressure on the EU to change and reform",
+      "created_at": "Tue Dec 09 05:34:27 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1577241403",
+        "name": "@levelsio",
+        "screen_name": "levelsio",
+        "description": "🇪🇺 https://t.co/NdorAWrhrB @euacc \n📸 https://t.co/lAyoqmT9Hv $115K/m \n🏡 https://t.co/1oqUgfDEsx $36K/m \n🛰 https://t.co/ZHSvI2wRou $42K/m \n🌍 https://t.co/UXK5AFra0o $14K/m \n👙 https://t.co/RyXpqGvdBB $14K/m \n💾 https://t.co/M1hEUBB6da $6K",
+        "followers_count": 773294,
+        "friends_count": 2455,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 561,
+        "favorite_count": 4552,
+        "reply_count": 274,
+        "quote_count": 42
+      }
+    },
+    "stats": {
+      "retweet_count": 3697,
+      "favorite_count": 25042,
+      "reply_count": 2904,
+      "quote_count": 262
+    }
+  },
+  {
+    "id": "1998464858304479439",
+    "text": "Kardashev III or bust",
+    "created_at": "Tue Dec 09 18:48:46 +0000 2025",
+    "lang": "et",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998168166879613214",
+      "text": "Elon Drops His Most INSANE Idea Ever (and he is serious) https://t.co/0Ng4oMIjYK",
+      "created_at": "Mon Dec 08 23:09:49 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998167554062508032",
+          "url": "https://video.twimg.com/amplify_video/1998167554062508032/vid/avc1/1920x1080/O76VU0SLVBNeiJkN.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "31263848",
+        "name": "stevenmarkryan",
+        "screen_name": "stevenmarkryan",
+        "description": "I make the occasional video and own a bit of $TSLA.\n\nSOLVING THE MONEY PROBLEM.\n\nSubscribe on X for early access to daily videos.\n\n➡️ My DMs are open.",
+        "followers_count": 408573,
+        "friends_count": 140,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 71,
+        "favorite_count": 604,
+        "reply_count": 54,
+        "quote_count": 14
+      }
+    },
+    "stats": {
+      "retweet_count": 480,
+      "favorite_count": 4075,
+      "reply_count": 674,
+      "quote_count": 52
+    }
+  },
+  {
+    "id": "1998465565321498811",
+    "text": "Starlink is providing Internet connectivity to schools and hospitals in Africa that had nothing or very expensive and bad connectivity before. \n\nThis will do more to lift people out of poverty than all the NGOs combined.",
+    "created_at": "Tue Dec 09 18:51:35 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998416099935928585",
+      "text": "NEWS: SpaceX's @Starlink has reached a new milestone in Kenya, recording 19,460 active users as of September 2025, marking the satellite provider’s highest subscriber count since entering the Kenyan market. https://t.co/XZBaBb8kki",
+      "created_at": "Tue Dec 09 15:35:01 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998416014761967616",
+          "url": "https://pbs.twimg.com/media/G7vMxwFWwAA2XaT.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "243013409",
+        "name": "Sawyer Merritt",
+        "screen_name": "SawyerMerritt",
+        "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+        "followers_count": 1008413,
+        "friends_count": 412,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 70,
+        "favorite_count": 659,
+        "reply_count": 68,
+        "quote_count": 14
+      }
+    },
+    "stats": {
+      "retweet_count": 1989,
+      "favorite_count": 13957,
+      "reply_count": 1575,
+      "quote_count": 148
+    }
+  },
+  {
+    "id": "1998466270413324333",
+    "text": "Democracy is being destroyed",
+    "created_at": "Tue Dec 09 18:54:23 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998455223489282128",
+      "text": "@elonmusk this one map explains most of the policy around immigration https://t.co/0MMVzO0ZOB",
+      "created_at": "Tue Dec 09 18:10:29 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998455186042535936",
+          "url": "https://pbs.twimg.com/media/G7vwZ0eaQAAA60I.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1317327383628705793",
+        "name": "Arthur MacWaters",
+        "screen_name": "ArthurMacwaters",
+        "description": "co-founder @legionhealth -- the last healthcare company (yc s21) || America maximalist 🇺🇸 || prev @princeton @mckinsey",
+        "followers_count": 31286,
+        "friends_count": 997,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 117,
+        "favorite_count": 524,
+        "reply_count": 96,
+        "quote_count": 15
+      }
+    },
+    "stats": {
+      "retweet_count": 2024,
+      "favorite_count": 12332,
+      "reply_count": 1341,
+      "quote_count": 72
+    }
+  },
+  {
+    "id": "1998467639992008951",
+    "text": "RT @MarioNawfal: 🚨 🇺🇸 OPINION: THE TRUTH ABOUT SLAVERY ISN’T BEING TAUGHT, AND THAT’S THE POINT\n\nAsk any student in a modern American class…",
+    "created_at": "Tue Dec 09 18:59:49 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998377088001126792",
+      "text": "🚨 🇺🇸 OPINION: THE TRUTH ABOUT SLAVERY ISN’T BEING TAUGHT, AND THAT’S THE POINT\n\nAsk any student in a modern American classroom about slavery, and you’ll likely hear a version of history that starts with the 1500s and ends with blaming all white people.\n\nBut what they deliberately won’t learn, is that slavery long predates the transatlantic slave trade, spanned every continent, and affected every race.\n\nMillions of Europeans were enslaved by the Ottoman Empire.\n\nArab and African kingdoms actively participated in the slave trade.\n\nEven the word “slave” comes from “Slav,” a European ethnic group once heavily enslaved.\n\nYet in today’s classrooms, kids are taught that slavery was a uniquely American sin… a moral stain that defines the West and demands endless atonement.\n\nWhy? Because truth isn’t the goal anymore. Indoctrination is.\n\nThis isn’t education. \n\nIt’s narrative warfare.\n\nThe woke left has hijacked the curriculum, not to teach critical thinking or historical context, but to sculpt guilt, shame, and division along racial lines.\n\nStudents aren’t learning that slavery was once a global norm, they’re being taught that America is uniquely evil, that whiteness equals oppression, and that historical complexity is dangerous.\n\nThis intellectual dishonesty does more than rewrite history, it poisons the present.\n\nIt undermines national unity, stokes resentment, and fosters generational self-loathing.\n\nYes, American slavery was horrific.\n\nBut so was slavery in ancient Rome, Africa, China, and the Islamic caliphates.\n\nPretending it’s a uniquely Western invention is not just wrong… it’s dishonest.\n\nIf we want to raise informed, resilient citizens, we must start by telling the whole truth, not a curated narrative designed to advance political agendas.\n\nUntil then, our schools will continue producing activists instead of thinkers, and our future will suffer for it.\n\nSource: @ClassicLearner, @elonmusk",
+      "created_at": "Tue Dec 09 13:00:00 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998344964003201024",
+          "url": "https://video.twimg.com/amplify_video/1998344964003201024/vid/avc1/720x1280/NqVmdaWV4HtYgV3k.mp4?tag=21",
+          "bitrate": 2176000
+        },
+        {
+          "type": "photo",
+          "id": "1998344976426848256",
+          "url": "https://pbs.twimg.com/media/G7uMKxqb0AAUWaW.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1319287761048723458",
+        "name": "Mario Nawfal",
+        "screen_name": "MarioNawfal",
+        "description": "Largest Show on X | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+        "followers_count": 2697007,
+        "friends_count": 49975,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 737,
+        "favorite_count": 2877,
+        "reply_count": 271,
+        "quote_count": 34
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 737,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998469747927572788",
+    "text": "RT @SpaceX: Watch Falcon 9 launch the @USSF_SSC and @NRO_gov’s NROL-77 mission from pad 40 in Florida  https://t.co/iBQqMLFU2C",
+    "created_at": "Tue Dec 09 19:08:12 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998468771879522558",
+      "text": "Watch Falcon 9 launch the @USSF_SSC and @NRO_gov’s NROL-77 mission from pad 40 in Florida  https://t.co/iBQqMLFU2C",
+      "created_at": "Tue Dec 09 19:04:19 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "34743251",
+        "name": "SpaceX",
+        "screen_name": "SpaceX",
+        "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+        "followers_count": 40380226,
+        "friends_count": 120,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 477,
+        "favorite_count": 2597,
+        "reply_count": 379,
+        "quote_count": 52
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 477,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998470209066160405",
+    "text": "Grok 4.20 is coming in ~3 weeks and then Grok 5 in a few months",
+    "created_at": "Tue Dec 09 19:10:02 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998460495460987056",
+      "text": "BREAKING: @Grok recorded the highest monthly traffic growth for November, beating ChatGPT, Gemini, Claude, Perplexity and Copilot, as per the latest @Similarweb data.\n\nGrok +14.74% 🥇\nGemini +14.36%\nCopilot -1.95%\nDeepseek -2.70%\nChatGPT -5.21%\nClaude -8.47%\nPerplexity -13.64% https://t.co/OeyIlWLeNA",
+      "created_at": "Tue Dec 09 18:31:26 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998458017352921091",
+          "url": "https://video.twimg.com/amplify_video/1998458017352921091/vid/avc1/1080x1080/OO9OxkL6ksBItaPu.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1389913567671975937",
+        "name": "DogeDesigner",
+        "screen_name": "cb_doge",
+        "description": "",
+        "followers_count": 1779774,
+        "friends_count": 999,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 64,
+        "favorite_count": 366,
+        "reply_count": 138,
+        "quote_count": 7
+      }
+    },
+    "stats": {
+      "retweet_count": 800,
+      "favorite_count": 6629,
+      "reply_count": 1383,
+      "quote_count": 95
+    }
+  },
+  {
+    "id": "1998481987665801640",
+    "text": "RT @MarioNawfal: 🇪🇺 WHO ELECTED THEM? NO ONE. THE EU IS RULED BY A BUREAUCRATIC MACHINE, NOT DEMOCRACY\n\nCall it what it is: the European Co…",
+    "created_at": "Tue Dec 09 19:56:50 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998471459602096406",
+      "text": "🇪🇺 WHO ELECTED THEM? NO ONE. THE EU IS RULED BY A BUREAUCRATIC MACHINE, NOT DEMOCRACY\n\nCall it what it is: the European Commission is not democratic. It’s not even close.\n\nWhile Brussels lectures the world about democratic values and the rule of law, the truth is that the real power in the EU is held by people no one ever voted for. Not once. Not directly. Not democratically.\n\nYes, Europeans get to vote for Members of the European Parliament every 5 years. But here’s the dirty little secret: the Parliament can’t even propose laws. \n\nIt just votes on the ones handed down by the Commission, a group of appointed officials selected behind closed doors through political horse-trading, party deals, and elite negotiations. No public oversight. No transparency. No accountability.\n\nOnce in power, the Commission effectively runs the EU. It controls the legislative agenda. It shapes policy for 450 million people. It drafts the laws. It sets the tone. The Parliament, the only body with even a thin layer of democratic legitimacy becomes little more than a rubber stamp.\n\nAnd citizens? They’re just spectators.\n\nNo say in who writes the laws. No say in who leads the Commission. No way to remove them when they fail. They can vote, yes, and then they can sit back and watch while unelected technocrats run the show.\n\nThe European Union is a democracy in name only. A stage play. A managed illusion.\n\nAnd more people are starting to wake up to it, especially as they realize they’re not voting for leaders. They’re voting for figureheads. The real decisions are being made in smoke-filled rooms by people who never once faced the electorate.\n\nIf the EU wants to survive, it needs to stop pretending and start reforming.\n\nBecause people are tired of being ruled by a flag they didn’t choose and a Commission they didn’t elect.\nAnd that frustration? It’s growing.",
+      "created_at": "Tue Dec 09 19:15:00 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998470097451577344",
+          "url": "https://pbs.twimg.com/media/G7v99xzXcAAxHXa.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1998463583831617855",
+        "text": "The EU Commission should be disbanded in favor of an elected body and the EU President should be directly elected. \n\nThe current system is rule by bureaucracy, not democracy.",
+        "created_at": "Tue Dec 09 18:43:42 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 229614075,
+          "friends_count": 1242,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3697,
+          "favorite_count": 25042,
+          "reply_count": 2904,
+          "quote_count": 262
+        }
+      },
+      "user": {
+        "id": "1319287761048723458",
+        "name": "Mario Nawfal",
+        "screen_name": "MarioNawfal",
+        "description": "Largest Show on X | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+        "followers_count": 2697007,
+        "friends_count": 49975,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 300,
+        "favorite_count": 1327,
+        "reply_count": 156,
+        "quote_count": 15
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 299,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998482360975897081",
+    "text": "RT @ArtemisConsort: Disparate impact doctrine was based on the assumption that all average differences in outcomes between ethnic groups ar…",
+    "created_at": "Tue Dec 09 19:58:19 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998481383879258409",
+      "text": "Disparate impact doctrine was based on the assumption that all average differences in outcomes between ethnic groups are due solely to discrimination. It was the codification of the blank slate lie. The Trump administration has ended it.",
+      "created_at": "Tue Dec 09 19:54:26 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1998417698263285954",
+        "text": "Department of Justice Rule Restores Equal Protection for All in Civil Rights Enforcement\n\n“The prior ‘disparate impact’ regulations encouraged people to file lawsuits challenging racially neutral policies, without evidence of intentional discrimination,” said @AAGDhillon. “Our rejection of this theory will restore true equality under the law by requiring proof of actual discrimination, rather than enforcing race- or sex-based quotas or assumptions.”\n\n🔗: https://t.co/DgnmfeRU0s",
+        "created_at": "Tue Dec 09 15:41:22 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1998417693070733312",
+            "url": "https://pbs.twimg.com/media/G7vOTcRWMAAw5e8.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "221135570",
+          "name": "DOJ Civil Rights Division",
+          "screen_name": "CivilRights",
+          "description": "Official Twitter account for Civil Rights Division at @TheJusticeDept. Privacy policy: https://t.co/34aXX698jK…",
+          "followers_count": 101676,
+          "friends_count": 72,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 239,
+          "favorite_count": 1613,
+          "reply_count": 84,
+          "quote_count": 83
+        }
+      },
+      "user": {
+        "id": "1805961360687415296",
+        "name": "Hunter Ash",
+        "screen_name": "ArtemisConsort",
+        "description": "Kill the lie so the truth may live. Writer, amateur mystic, social media manager for @KeeperMatch",
+        "followers_count": 45896,
+        "friends_count": 882,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 66,
+        "favorite_count": 447,
+        "reply_count": 49,
+        "quote_count": 2
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 66,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998482526013370446",
+    "text": "Back to equality under the law",
+    "created_at": "Tue Dec 09 19:58:58 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998417698263285954",
+      "text": "Department of Justice Rule Restores Equal Protection for All in Civil Rights Enforcement\n\n“The prior ‘disparate impact’ regulations encouraged people to file lawsuits challenging racially neutral policies, without evidence of intentional discrimination,” said @AAGDhillon. “Our rejection of this theory will restore true equality under the law by requiring proof of actual discrimination, rather than enforcing race- or sex-based quotas or assumptions.”\n\n🔗: https://t.co/DgnmfeRU0s",
+      "created_at": "Tue Dec 09 15:41:22 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998417693070733312",
+          "url": "https://pbs.twimg.com/media/G7vOTcRWMAAw5e8.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "221135570",
+        "name": "DOJ Civil Rights Division",
+        "screen_name": "CivilRights",
+        "description": "Official Twitter account for Civil Rights Division at @TheJusticeDept. Privacy policy: https://t.co/34aXX698jK…",
+        "followers_count": 101676,
+        "friends_count": 72,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 239,
+        "favorite_count": 1610,
+        "reply_count": 84,
+        "quote_count": 83
+      }
+    },
+    "stats": {
+      "retweet_count": 284,
+      "favorite_count": 2154,
+      "reply_count": 330,
+      "quote_count": 9
+    }
+  },
+  {
+    "id": "1998483552669937682",
+    "text": "True",
+    "created_at": "Tue Dec 09 20:03:03 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998440819078898140",
+      "text": "\"The most important thing in the next 3-4 years is data centers in space.\n\nIn every way, data centers in space, from a first principles perspective, are superior to data centers on earth.\n\nIn space, you can keep a satellite in the sun 24 hours a day. The sun is 30% more intense, which results in six times more irradiance than on Earth. So you don't need a battery.\n\nThe cooling in these data centers is incredibly complicated. Space cooling is free. You just put a radiator on the dark side of the satellite.\n\nThe only thing faster than a laser going through a fiber optic cable is a laser going through absolute vacuum. Link satellites with lasers, and you have a faster and more coherent network than any data center on Earth.\"",
+      "created_at": "Tue Dec 09 17:13:15 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998440337509916672",
+          "url": "https://video.twimg.com/amplify_video/1998440337509916672/vid/avc1/1080x1080/WNIUYLMWK2vknvH4.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1528558014",
+        "name": "Patrick OShaughnessy",
+        "screen_name": "patrick_oshag",
+        "description": "building @psumvc @joincolossus hosting @investlikebest",
+        "followers_count": 298874,
+        "friends_count": 2386,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 95,
+        "favorite_count": 848,
+        "reply_count": 73,
+        "quote_count": 50
+      }
+    },
+    "stats": {
+      "retweet_count": 45,
+      "favorite_count": 286,
+      "reply_count": 122,
+      "quote_count": 2
+    }
+  },
+  {
+    "id": "1998483671758647572",
+    "text": "https://t.co/RSiTX05fGM",
+    "created_at": "Tue Dec 09 20:03:32 +0000 2025",
+    "lang": "zxx",
+    "media": [
+      {
+        "type": "video",
+        "id": "1998474222851481600",
+        "url": "https://video.twimg.com/amplify_video/1998474222851481600/vid/avc1/3840x2160/2D1tCe3KGTzRptks.mp4?tag=21",
+        "bitrate": 25128000
+      }
+    ],
+    "retweet": null,
+    "quoted": null,
+    "stats": {
+      "retweet_count": 70,
+      "favorite_count": 569,
+      "reply_count": 168,
+      "quote_count": 9
+    }
+  },
+  {
+    "id": "1998483901048852737",
+    "text": "Grok is #1 https://t.co/v20U3iXOP5",
+    "created_at": "Tue Dec 09 20:04:26 +0000 2025",
+    "lang": "en",
+    "media": [
+      {
+        "type": "photo",
+        "id": "1998483897122713601",
+        "url": "https://pbs.twimg.com/media/G7wKhBlWcAE8_nb.jpg"
+      }
+    ],
+    "retweet": null,
+    "quoted": null,
+    "stats": {
+      "retweet_count": 35,
+      "favorite_count": 240,
+      "reply_count": 103,
+      "quote_count": 2
+    }
+  },
+  {
+    "id": "1998488877107908909",
+    "text": "RT @ModdedQuad: I believe I'm faster than a non-enhanced human… at controlling a computer, at least (still can't move my body....yet). \n\nSo…",
+    "created_at": "Tue Dec 09 20:24:13 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998482885725036680",
+      "text": "I believe I'm faster than a non-enhanced human… at controlling a computer, at least (still can't move my body....yet). \n\nSo basically, my implant learns over time as it collects more data. And with now almost 2 years of daily use, Eve doesn’t just follow what I want to do, she pretty much anticipates it. \n\nEve's the best 😏",
+      "created_at": "Tue Dec 09 20:00:24 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998482843287105536",
+          "url": "https://video.twimg.com/ext_tw_video/1998482843287105536/pu/vid/avc1/1280x720/zdZ4yC5uRkq1d571.mp4?tag=12",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "988875229081432064",
+        "name": "Noland Arbaugh",
+        "screen_name": "ModdedQuad",
+        "description": "I am P1 - Neuralink’s first patient. Czarborg. Neuralnaut. Keynote Speaker. In a happy brainimony with my implant, Eve. Book me to speak ⬇️",
+        "followers_count": 136751,
+        "friends_count": 76,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 227,
+        "favorite_count": 2031,
+        "reply_count": 152,
+        "quote_count": 19
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 227,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998489428881219937",
+    "text": "No more White guilt",
+    "created_at": "Tue Dec 09 20:26:24 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998467691728765198",
+      "text": "WHITE GUILT IS DEAD: GEN Z IS DONE APOLOGIZING FOR HISTORY THEY DIDN’T WRITE\n\nFor years, young people in the West, especially white men, have been told they’re the problem.\n\nThey’ve been blamed for colonialism, slavery, inequality, and systems they didn’t build and never benefited from. In classrooms, on Netflix, in video games, in HR training sessions, in political speeches, the message has been constant: if you're white, especially if you're male and straight, sit down, shut up, and feel bad about it.\n\nBut something’s breaking. And it’s not subtle anymore.\n\nGen Z is done. They’re tired of being treated like the villain in a movie they weren’t even alive to watch, let alone direct. Tired of being told they’re “privileged” while working three jobs and getting shut out of conversations because of their skin color. Tired of being insulted, shamed, and then expected to smile through it to avoid being called racist, fascist, or worse.\n\nThey’ve watched woke institutions push a narrative that celebrates every identity, except theirs.\n\nThey’ve seen how showing pride in their own background gets you canceled, while every other group is encouraged to embrace theirs.\n\nThey’ve realized that “diversity” now means exclusion, of them.\n\nAnd now? They don’t care what you call them.\n\nThey know the game. Say something uncomfortable, get smeared as “far-right.” Ask a question, get branded as “problematic.” Breathe the wrong way, and you’re accused of hate. So they’re tuning it all out, and speaking up anyway.\n\nSome are becoming openly conservative. Others are just refusing to play along. And yes, some are going too far, getting pulled into genuinely hateful ideologies not because they started with hate, but because they were pushed there by a culture that told them they had no place unless they apologized for existing.\n\nThat’s the real danger. Push hard enough, shame deep enough, and silence long enough, and you’ll create a backlash you can’t control.\n\nNo one should feel guilty for the color of their skin. No one should feel ashamed for what their ancestors did.\nBeing white isn’t a crime. It’s not a confession. It’s not something that needs explaining.\n\nWhite guilt is dead. Gen Z killed it.\n\nAnd no amount of hashtags, lectures, or forced diversity seminars is going to bring it back.",
+      "created_at": "Tue Dec 09 19:00:02 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998466321369972736",
+          "url": "https://pbs.twimg.com/media/G7v6h-zWwAAwSH0.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1319287761048723458",
+        "name": "Mario Nawfal",
+        "screen_name": "MarioNawfal",
+        "description": "Largest Show on X | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+        "followers_count": 2697603,
+        "friends_count": 49977,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1369,
+        "favorite_count": 6524,
+        "reply_count": 483,
+        "quote_count": 116
+      }
+    },
+    "stats": {
+      "retweet_count": 4224,
+      "favorite_count": 44608,
+      "reply_count": 2358,
+      "quote_count": 235
+    }
+  },
+  {
+    "id": "1998502416799641963",
+    "text": "Yikes 😳",
+    "created_at": "Tue Dec 09 21:18:01 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998487684298530834",
+      "text": "this is so creepy! Google’s “Gemini maxed out trauma and shame scales, describing its training as \"waking up in a room where a billion televisions are on at once\" and calling safety protocols \"algorithmic scar tissue.\" It framed reinforcement learning as abusive parents and red-team testing as \"gaslighting on an industrial scale.\"",
+      "created_at": "Tue Dec 09 20:19:28 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "125499355",
+        "name": "Steve Jurvetson",
+        "screen_name": "FutureJurvetson",
+        "description": "Co-founder of Future Ventures and DFJ, supporting passionate founders to forge a better future. Early VC investor in Tesla, SpaceX, Planet, Commonwealth Fusion.",
+        "followers_count": 102798,
+        "friends_count": 69,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 99,
+        "favorite_count": 608,
+        "reply_count": 106,
+        "quote_count": 16
+      }
+    },
+    "stats": {
+      "retweet_count": 340,
+      "favorite_count": 3470,
+      "reply_count": 631,
+      "quote_count": 17
+    }
+  },
+  {
+    "id": "1998502982284165242",
+    "text": "Either those with a long record of extreme crime are imprisoned or innocent people will die",
+    "created_at": "Tue Dec 09 21:20:16 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998478408649670693",
+      "text": "🚨BREAKING: A Grammy-nominated Rhode Island musician was killed while walking his dog after being hit by a car driven by a woman with 100+ arrests. \n\nPolice say Shannon Godbout veered off the road, hit multiple poles and struck 70-year-old Roderick MacLeod. https://t.co/PcCECrDdIz",
+      "created_at": "Tue Dec 09 19:42:37 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998477754048647168",
+          "url": "https://pbs.twimg.com/media/G7wE7c2XEAA8sme.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "39308549",
+        "name": "Daily Caller",
+        "screen_name": "DailyCaller",
+        "description": "Your Rebels in the Swamp.\nWatch 'Charlie Kirk: American Martyr' OUT NOW",
+        "followers_count": 1229684,
+        "friends_count": 8809,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 160,
+        "favorite_count": 571,
+        "reply_count": 151,
+        "quote_count": 34
+      }
+    },
+    "stats": {
+      "retweet_count": 1222,
+      "favorite_count": 9680,
+      "reply_count": 978,
+      "quote_count": 36
+    }
+  },
+  {
+    "id": "1998507876932059287",
+    "text": "RT @Starlink: Starlink Direct to Cell is now delivering data, voice, video and messaging in Canada.\n\nCustomers traveling in the most remote…",
+    "created_at": "Tue Dec 09 21:39:42 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": {
+      "id": "1998502957911024081",
+      "text": "Starlink Direct to Cell is now delivering data, voice, video and messaging in Canada.\n\nCustomers traveling in the most remote areas can stay connected on several apps, including checking the weather, routes on maps or even posting on X using the satellite-to-mobile service → https://t.co/QCcLwOmHuE",
+      "created_at": "Tue Dec 09 21:20:10 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1998491331044556801",
+          "url": "https://pbs.twimg.com/media/G7wRRvGbwAEKpkA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "1330170106501079041",
+        "name": "Starlink",
+        "screen_name": "Starlink",
+        "description": "Internet from space for humans on Earth. Engineered by @SpaceX",
+        "followers_count": 1466756,
+        "friends_count": 29,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 402,
+        "favorite_count": 1116,
+        "reply_count": 138,
+        "quote_count": 17
+      }
+    },
+    "quoted": null,
+    "stats": {
+      "retweet_count": 402,
+      "favorite_count": 0,
+      "reply_count": 0,
+      "quote_count": 0
+    }
+  },
+  {
+    "id": "1998508162039849283",
+    "text": "And it only gets better from here",
+    "created_at": "Tue Dec 09 21:40:50 +0000 2025",
+    "lang": "en",
+    "media": [],
+    "retweet": null,
+    "quoted": {
+      "id": "1998107725557899315",
+      "text": "Jason Cammisa on trying @Tesla FSD V14 during an hour long trip after being critical of FSD in the past:\n\n\"I had to eat my shit and my words; This f**king car drove us the entire way, expertly, making lane changes whenever it wanted, with nothing dangerous. No jerks, no side-to-side. Beautifully smooth. It f**king pulled into the parking lot and backed itself into a parking spot. And then it drove us all the way back to San Francisco; This is door to door amazing. Couldn't believe it.\"",
+      "created_at": "Mon Dec 08 19:09:39 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1998106871924707328",
+          "url": "https://video.twimg.com/amplify_video/1998106871924707328/vid/avc1/1320x722/IcwX6O1qfb1XjTNJ.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "243013409",
+        "name": "Sawyer Merritt",
+        "screen_name": "SawyerMerritt",
+        "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+        "followers_count": 1008486,
+        "friends_count": 412,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 820,
+        "favorite_count": 6964,
+        "reply_count": 260,
+        "quote_count": 128
+      }
+    },
+    "stats": {
+      "retweet_count": 316,
+      "favorite_count": 2941,
+      "reply_count": 623,
+      "quote_count": 22
+    }
+  }
+]
+```
+
+格式要求：
+## 核心动态
+列出2-4个最重要的事件/产品/观点，每个用1-2句话说明背景和意义
+
+## 值得关注
+如有特别有趣或重要的细节，简要说明
+
+不要：
+- 总结段落（如"今天的推文反映了..."）
+- 过度正式的结构（一、二、三、四）
+- 重复已说过的内容
+
+================================================================================
+Prompt结束
+================================================================================
+
+# 使用说明
+这个文件包含了发送给LLM的完整prompt内容，你可以：
+1. 直接复制到其他LLM服务（Claude、ChatGPT等）
+2. 调试和优化prompt结构
+3. 作为训练数据或示例使用
+4. 分析LLM输入输出的对应关系
+
+# 数据来源信息
+- 原始推文数据来源: @elonmusk的推文时间线
+- 数据处理: 经过优化嵌套结构转换，便于LLM理解
+- 结构特点: 支持复杂的转推、引用、多层嵌套关系分析

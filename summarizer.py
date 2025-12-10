@@ -12,7 +12,7 @@ from typing import List, Dict, Optional, Any
 import hashlib
 
 class TwitterSummarizer:
-    def __init__(self, api_key: Optional[str] = None, model: Optional[str] = None):
+    def __init__(self, api_key: Optional[str] = None, model: Optional[str] = None, base_url: Optional[str] = None):
         """
         初始化总结器
         
@@ -21,15 +21,21 @@ class TwitterSummarizer:
             model: 指定使用的模型，如果为None则使用默认模型
         """
         # 尝试从多个环境变量获取API密钥
-        self.api_key = (
-            api_key or 
-            os.getenv('OPENROUTER_API_KEY') or 
-            os.getenv('OPENAI_API_KEY') or
-            os.getenv('LLM_API_KEY')
+        self.api_key = api_key or next(
+            (os.getenv(name) for name in [
+                'LLM_API_KEY',
+                'DEEPSEEK_API_KEY',
+                'OPENROUTER_API_KEY',
+                'OPENAI_API_KEY'
+            ] if os.getenv(name)),
+            None
         )
         
         # 指定的模型：参数 > 环境变量 > None
-        self.custom_model = model or os.getenv('OPENAI_MODEL')
+        self.custom_model = model or os.getenv('LLM_MODEL') or os.getenv('DEEPSEEK_MODEL') or os.getenv('OPENAI_MODEL')
+
+        # LLM base_url：允许切换到 DeepSeek/OpenAI 等 OpenAI 兼容接口
+        self.base_url = base_url or os.getenv('LLM_BASE_URL') or os.getenv('OPENAI_BASE_URL') or os.getenv('DEEPSEEK_BASE_URL') or "https://api.deepseek.com/v1"
         # 不再创建独立的summaries目录，使用crawler_data/user_summaries
         
         # 总结配置
@@ -89,9 +95,10 @@ class TwitterSummarizer:
             "fallback_models": [
                 "openai/gpt-4o-mini", 
                 "anthropic/claude-3-haiku",
-                "meta-llama/llama-3.1-8b-instruct"
+                "meta-llama/llama-3.1-8b-instruct",
+                "deepseek-chat"
             ],
-            "max_tokens": 100000,
+            "max_tokens": 8192,#deepseek最大token长度限制为8192
             "temperature": 0.7
         }
         
@@ -108,7 +115,7 @@ class TwitterSummarizer:
             print(f"  ✅ API密钥: {masked_key}")
         else:
             print(f"  ⚠️ API密钥: 未设置 (将使用模拟总结)")
-            print(f"     💡 请设置环境变量: OPENROUTER_API_KEY")
+            print(f"     💡 请设置环境变量: DEEPSEEK_API_KEY")
         
         # 检查依赖库
         try:
@@ -122,6 +129,7 @@ class TwitterSummarizer:
         print(f"  🎯 使用模型: {effective_model}")
         if self.custom_model:
             print(f"     (自定义指定)")
+        print(f"  ?? ????: {self.base_url}")
         print(f"  🔄 备选模型: {len(self.llm_config['fallback_models'])} 个")
     
     def add_user_profile(self, username: str, user_type: str, focus: str, keywords: List[str], analysis_angles: List[str]):
@@ -540,9 +548,16 @@ Prompt结束
             print("❌ 缺少openai库，请安装: pip install openai")
             return self.generate_mock_summary()
             
-        # 创建OpenRouter客户端
+        # 创建OpenAI兼容客户端，兼容新旧 SDK
+        headers = {}
+        if "openrouter.ai" in (self.base_url or ""):
+            headers = {
+                "HTTP-Referer": "https://github.com/anthropics/claude-code", 
+                "X-Title": "X-Tweet-Analysis-System",
+            }
+
         client = OpenAI(
-            base_url="https://openrouter.ai/api/v1",
+            base_url=self.base_url,
             api_key=self.api_key,
         )
         
@@ -555,10 +570,7 @@ Prompt结束
                 
                 # 调用API
                 completion = client.chat.completions.create(
-                    extra_headers={
-                        "HTTP-Referer": "https://github.com/anthropics/claude-code", 
-                        "X-Title": "X-Tweet-Analysis-System",
-                    },
+                    extra_headers=headers or None,
                     model=current_model,
                     messages=[
                         {
